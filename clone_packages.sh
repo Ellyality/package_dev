@@ -12,4 +12,7 @@ git clone https://github.com/Ellyality/package_character.git
 git clone https://github.com/Ellyality/package_sdf.git
 git clone https://github.com/Ellyality/package_smoke.git
 git clone https://github.com/Ellyality/package_aeroUI.git
+git clone https://github.com/Ellyality/package_unity_free_camera.git
+git clone https://github.com/Ellyality/package_xlua.git
+git clone https://github.com/Ellyality/package_unibus.git
 pause
