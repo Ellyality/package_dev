@@ -1,4 +1,5 @@
 cd Assets
+git clone https://github.com/Ellyality/package_naughty_attributes.git
 git clone https://github.com/Ellyality/package_randomness.git
 git clone https://github.com/Ellyality/package_mapping.git
 git clone https://github.com/Ellyality/package_display.git
