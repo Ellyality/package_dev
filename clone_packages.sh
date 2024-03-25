@@ -30,4 +30,5 @@ git clone https://github.com/Ellyality/package_road_architect.git
 git clone https://github.com/Ellyality/package_http.git
 git clone https://github.com/Ellyality/package_hex_tiles.git
 git clone https://github.com/Ellyality/package_pixel_camera.git
+git clone https://github.com/Ellyality/package_open_scenes.git
 pause
