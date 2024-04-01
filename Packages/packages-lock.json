@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "com.ellyality.data.newtonsoft.json": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "http://registry.npmjs.com"
+    },
+    "com.ellyality.network.mirror": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.ellyality.data.newtonsoft.json": "1.0.0"
+      },
+      "url": "http://registry.npmjs.com"
+    },
+    "com.simeonradivoev.uni-git": {
+      "version": "https://github.com/simeonradivoev/UniGit.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7297928b588f26a3ac8c90e4770047c09aefd681"
+    },
     "com.unity.burst": {
       "version": "1.8.8",
       "depth": 1,

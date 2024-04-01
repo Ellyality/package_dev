@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.ellyality.network.mirror": "1.0.0",
+    "com.simeonradivoev.uni-git": "https://github.com/simeonradivoev/UniGit.git",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.ide.rider": "3.0.24",
     "com.unity.ide.visualstudio": "2.0.18",
